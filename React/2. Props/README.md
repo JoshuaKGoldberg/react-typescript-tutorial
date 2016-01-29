@@ -1,0 +1,1 @@
+Corresponds to slide 17: Props

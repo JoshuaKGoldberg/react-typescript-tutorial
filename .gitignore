@@ -1,0 +1,4 @@
+**/*.js
+**/*.js.map
+!**/react.js
+!**/react-dom.js

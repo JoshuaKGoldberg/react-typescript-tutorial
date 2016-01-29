@@ -1,0 +1,10 @@
+{
+    "src": [
+        "*.ts",
+        "*.tsx"
+    ],
+    "compilerOptions": {
+        "jsx": "react",
+        "sourceMap": true
+    }
+}
