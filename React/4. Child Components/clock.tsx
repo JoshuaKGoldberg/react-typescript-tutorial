@@ -7,7 +7,7 @@ interface IClockProps {
 }
 
 class Clock extends React.Component<IClockProps, any> {
-	render() {
+    render() {
         return <em>({this.props.time})</em>;
     }
 }
