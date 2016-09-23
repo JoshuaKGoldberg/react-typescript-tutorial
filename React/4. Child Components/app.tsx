@@ -25,7 +25,7 @@ class App extends React.Component<IAppProps, IAppState> {
             1);
     }
     
-	render() {
+    render() {
         return (<p>
             {this.props.text}
             <br />
